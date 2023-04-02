@@ -1,0 +1,52 @@
+footer
+{
+   
+    color: whitesmoke;
+  
+    position: relative;
+   
+}
+
+
+form
+{
+    margin-left: 100px;
+   
+}
+
+textarea
+{
+     margin-left: 100px;
+     padding-left: 180px;
+     text-align: left;
+}
+
+body 
+{
+    background-color: black;
+}
+
+
+
+
+img
+{
+    float: right;
+    width:580px;
+    height:500px;
+    margin-bottom: 200px;
+    padding-bottom: 190px;
+}
+#submit
+{
+    margin-left:100px;
+}
+
+
+
+
+
+
+
+
+
